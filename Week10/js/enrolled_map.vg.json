@@ -58,6 +58,7 @@
       "mark": {
         "type": "text",
         "color": "black",
+        "font": "Verdana",
         "fontSize": 12,
         "fontWeight": 100,
         "dx": 10,
@@ -79,6 +80,7 @@
       "mark": {
         "type": "text",
         "color": "black",
+        "font": "Verdana",
         "fontSize": 12,
         "fontWeight": 100,
         "dx": 10,
